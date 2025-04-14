@@ -1,7 +1,4 @@
-# slidegenie
-AI-powered presentation generator using creativity 
-git clone https://github.com/your-username/slidegenie.git
-cd slidegenie
-git add .
-git commit -m "Initial commit"
-git push origin main
+app/page.tsx
+components/Presentation.tsx
+lib/generatePresentation.ts
+lib/openai.ts
